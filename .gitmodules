@@ -1,0 +1,3 @@
+[submodule "lksctp-tools"]
+	path = lksctp-tools
+	url = https://github.com/sailfishos-mirror/lksctp-tools.git
